@@ -1,0 +1,9 @@
+
+
+Filter:
+
+Employee Unique ID: is not black
+Organisation Level 01 Title: APMM CEO
+Organisation Level 02 Title: A.P.Moller Maersk
+Year: 2022
+Report Month: 2022, September
